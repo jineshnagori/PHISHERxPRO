@@ -33,7 +33,7 @@
 #### [+] Easy for Beginners !
 
 ## Credits :
-#### > Jinesh Nagori (https://github.com/jineshnagori)
+#### > Captain John
 
 ## Tunelling Options :
 #### > Localhost (127.0.0.1)
